@@ -1,0 +1,911 @@
+[
+    {
+        "Produto": "ARROZ R$ / SACA 50 KG",
+        "UF": "RS",
+        "Praça": "CAMPANHA",
+        "Preço": "R$ 50,94",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "1,09%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ARROZ R$ / SACA 50 KG",
+        "UF": "RS",
+        "Praça": "DEPRESSAO CENTRAL",
+        "Preço": "R$ 48,80",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,10%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ARROZ R$ / SACA 50 KG",
+        "UF": "RS",
+        "Praça": "FRONTEIRA OESTE",
+        "Preço": "R$ 55,05",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "5,12%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ARROZ R$ / SACA 50 KG",
+        "UF": "RS",
+        "Praça": "ZONA SUL",
+        "Preço": "R$ 56,83",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,57%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO - TIPO PÃO R$ / TON",
+        "UF": "PR",
+        "Praça": "NORTE DO PARANA",
+        "Preço": "R$ 1.200,02",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,47%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO - TIPO PÃO R$ / TON",
+        "UF": "PR",
+        "Praça": "OESTE DO PARANA",
+        "Preço": "R$ 1.198,02",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,87%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO - TIPO PÃO R$ / TON",
+        "UF": "PR",
+        "Praça": "PARANA",
+        "Preço": "R$ 1.171,18",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,14%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO - TIPO PÃO R$ / TON",
+        "UF": "PR",
+        "Praça": "PONTA GROSSA",
+        "Preço": "R$ 1.167,78",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,16%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO - TIPO PÃO R$ / TON",
+        "UF": "PR",
+        "Praça": "SUDOESTE DO PARANA",
+        "Preço": "R$ 1.148,35",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 2,21%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "BA",
+        "Praça": "BARREIRAS",
+        "Preço": "R$ 110,83",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 11,34%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "GO",
+        "Praça": "RIO VERDE",
+        "Preço": "R$ 109,30",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,41%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MG",
+        "Praça": "TRIANGULO MINEIRO",
+        "Preço": "R$ 111,13",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,30%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MS",
+        "Praça": "CAMPO GRANDE",
+        "Preço": "R$ 108,17",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MS",
+        "Praça": "DOURADOS",
+        "Preço": "R$ 108,39",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,01%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MS",
+        "Praça": "MARACAJU",
+        "Preço": "R$ 108,34",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,26%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MT",
+        "Praça": "PRIMAVERA DO LESTE",
+        "Preço": "R$ 100,57",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 4,51%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "MT",
+        "Praça": "SORRISO",
+        "Preço": "R$ 96,43",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 4,97%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "NORTE DO PARANA",
+        "Preço": "R$ 113,61",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,57%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "OESTE DO PARANA",
+        "Preço": "R$ 113,15",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,70%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "PONTA GROSSA",
+        "Preço": "R$ 116,14",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,66%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "SUDOESTE DO PARANA",
+        "Preço": "R$ 116,66",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,39%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "RS",
+        "Praça": "IJUI",
+        "Preço": "R$ 116,66",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 5,92%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "RS",
+        "Praça": "PASSO FUNDO",
+        "Preço": "R$ 117,41",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,06%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "RS",
+        "Praça": "SANTA ROSA",
+        "Preço": "R$ 116,71",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 5,73%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "SC",
+        "Praça": "CAMPOS NOVOS",
+        "Preço": "R$ 117,20",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 5,31%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "SP",
+        "Praça": "MOGIANA",
+        "Preço": "R$ 113,08",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,88%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SOJA R$ / SACA 60 KG",
+        "UF": "SP",
+        "Praça": "SOROCABA",
+        "Preço": "R$ 113,98",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,71%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "BA",
+        "Praça": "BARREIRAS",
+        "Preço": "R$ 61,25",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,69%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "GO",
+        "Praça": "RIO VERDE",
+        "Preço": "R$ 55,63",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,13%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "MG",
+        "Praça": "TRIANGULO MINEIRO",
+        "Preço": "R$ 53,78",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "MS",
+        "Praça": "DOURADOS",
+        "Preço": "R$ 42,84",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 13,96%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "MT",
+        "Praça": "SORRISO",
+        "Preço": "R$ 38,94",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 12,04%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "CASCAVEL",
+        "Preço": "R$ 49,95",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 9,15%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "NORTE DO PARANA",
+        "Preço": "R$ 50,67",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 7,20%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "PR",
+        "Praça": "SUDOESTE DO PARANA",
+        "Preço": "R$ 55,09",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,79%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "RS",
+        "Praça": "IJUI",
+        "Preço": "R$ 56,79",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,15%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "RS",
+        "Praça": "PASSO FUNDO",
+        "Preço": "R$ 56,93",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 4,64%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "SC",
+        "Praça": "CHAPECO",
+        "Preço": "R$ 55,54",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 8,14%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "SP",
+        "Praça": "MOGIANA",
+        "Preço": "R$ 57,61",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,64%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "MILHO R$ / SACA 60 KG",
+        "UF": "SP",
+        "Praça": "SOROCABA",
+        "Preço": "R$ 55,47",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 2,46%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "MG",
+        "Praça": "PONTE NOVA",
+        "Preço": "R$ 6,76",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 20,09%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "MG",
+        "Praça": "SUL DE MINAS",
+        "Preço": "R$ 6,80",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 20,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "PR",
+        "Praça": "ARAPOTI",
+        "Preço": "R$ 6,68",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 23,04%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "PR",
+        "Praça": "CASCAVEL",
+        "Preço": "R$ 7,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 17,84%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "RS",
+        "Praça": "ERECHIM",
+        "Preço": "R$ 7,12",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 17,40%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "RS",
+        "Praça": "VALE DO TAQUARI",
+        "Preço": "R$ 7,21",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 16,07%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "SC",
+        "Praça": "BRACO DO NORTE",
+        "Preço": "R$ 6,73",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 21,01%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "SC",
+        "Praça": "CHAPECO",
+        "Preço": "R$ 6,77",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 20,82%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "SP",
+        "Praça": "AVARE",
+        "Preço": "R$ 6,78",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 27,10%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "SUÍNO R$ / KG VIVO",
+        "UF": "SP",
+        "Praça": "SAO PAULO",
+        "Preço": "R$ 6,92",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 21,98%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA INDÚSTRIA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "BEBEDOURO",
+        "Preço": "R$ 33,25",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,77%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA INDÚSTRIA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "LIMEIRA",
+        "Preço": "R$ 37,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 3,47%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA INDÚSTRIA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "SAO PAULO",
+        "Preço": "R$ 36,45",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,57%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA PERA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "ARARAQUARA",
+        "Preço": "R$ 35,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA PERA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "BEBEDOURO",
+        "Preço": "R$ 44,17",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 2,37%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "LARANJA PERA R$/CX DE 40,8 KG",
+        "UF": "SP",
+        "Praça": "LIMEIRA",
+        "Preço": "R$ 42,33",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 5,93%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "BA",
+        "Praça": "BARREIRAS",
+        "Preço": "R$ 3,28",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,30%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MG",
+        "Praça": "TRIANGULO MINEIRO",
+        "Preço": "R$ 4,23",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MS",
+        "Praça": "CHAPADAO DO SUL",
+        "Preço": "R$ 3,39",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "5,28%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MS",
+        "Praça": "NAVIRAI",
+        "Preço": "R$ 3,93",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MT",
+        "Praça": "CAMPO NOVO DO PARECIS",
+        "Preço": "R$ 3,30",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,17%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MT",
+        "Praça": "PRIMAVERA DO LESTE",
+        "Preço": "R$ 3,39",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 1,74%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "MT",
+        "Praça": "RONDONOPOLIS",
+        "Preço": "R$ 3,31",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,30%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ALGODÃO R$ / CENTS-LIBRA",
+        "UF": "SP",
+        "Praça": "SAO PAULO",
+        "Preço": "R$ 3,29",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 2,66%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "AL",
+        "Praça": "ALAGOAS",
+        "Preço": "R$ 149,11",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "PB",
+        "Praça": "PARAIBA",
+        "Preço": "R$ 144,11",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "PE",
+        "Praça": "PERNAMBUCO",
+        "Preço": "R$ 147,55",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "SP",
+        "Praça": "ASSIS",
+        "Preço": "R$ 96,04",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 6,76%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "SP",
+        "Praça": "JAU",
+        "Preço": "R$ 103,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 4,19%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "SP",
+        "Praça": "PIRACICABA",
+        "Preço": "R$ 101,55",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 5,04%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "SP",
+        "Praça": "RIBEIRAO PRETO",
+        "Preço": "R$ 98,33",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 8,76%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "AÇÚCAR R$ / SACA 50 KG",
+        "UF": "SP",
+        "Praça": "SANTOS",
+        "Preço": "R$ 134,05",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,00%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "BA",
+        "Praça": "BAHIA",
+        "Preço": "R$ 312,74",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "1,41%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "GO",
+        "Praça": "GOIANIA",
+        "Preço": "R$ 310,80",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,86%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "GO",
+        "Praça": "RIO VERDE",
+        "Preço": "R$ 309,54",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,57%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MG",
+        "Praça": "TRIANGULO MINEIRO",
+        "Preço": "R$ 311,29",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,07%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MS",
+        "Praça": "CAMPO GRANDE",
+        "Preço": "R$ 311,39",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "1,17%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MS",
+        "Praça": "DOURADOS",
+        "Preço": "R$ 311,37",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "1,84%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MS",
+        "Praça": "TRES LAGOAS",
+        "Preço": "R$ 310,55",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "1,76%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MT",
+        "Praça": "COLIDER",
+        "Preço": "R$ 300,78",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,82%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "MT",
+        "Praça": "CUIABA",
+        "Preço": "R$ 300,30",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,45%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "PA",
+        "Praça": "PARA",
+        "Preço": "R$ 305,95",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "3,76%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "PR",
+        "Praça": "NOROESTE DO PARANA",
+        "Preço": "R$ 323,39",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,01%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "RO",
+        "Praça": "RONDONIA",
+        "Preço": "R$ 291,30",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "5,95%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "SP",
+        "Praça": "ARACATUBA",
+        "Preço": "R$ 332,56",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "5,51%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "SP",
+        "Praça": "SAO JOSE DO RIO PRETO",
+        "Preço": "R$ 331,23",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "3,97%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "BOI GORDO R$ / @",
+        "UF": "TO",
+        "Praça": "TOCANTINS",
+        "Preço": "R$ 303,22",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,95%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ETANOL ANIDRO R$ / L",
+        "UF": "GO",
+        "Praça": "GOIAS",
+        "Preço": "R$ 3,43",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "4,26%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ETANOL ANIDRO R$ / L",
+        "UF": "SP",
+        "Praça": "SAO PAULO",
+        "Preço": "R$ 3,49",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "3,56%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ETANOL HIDRATADO R$ / L",
+        "UF": "GO",
+        "Praça": "GOIAS",
+        "Preço": "R$ 3,01",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "0,33%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "ETANOL HIDRATADO R$ / L",
+        "UF": "SP",
+        "Praça": "SAO PAULO",
+        "Preço": "R$ 3,05",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "3,04%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO R$ / TON",
+        "UF": "RS",
+        "Praça": "IJUI",
+        "Preço": "R$ 1.042,46",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "3,56%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO R$ / TON",
+        "UF": "RS",
+        "Praça": "PASSO FUNDO",
+        "Preço": "R$ 1.060,64",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 0,20%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "TRIGO R$ / TON",
+        "UF": "RS",
+        "Praça": "RIO GRANDE DO SUL",
+        "Preço": "R$ 1.066,46",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "2,29%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "ES",
+        "Praça": "VITORIA",
+        "Preço": "R$ 1.808,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 16,87%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "MG",
+        "Praça": "CERRADO DE MINAS",
+        "Preço": "R$ 1.886,88",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 15,72%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "MG",
+        "Praça": "SUL DE MINAS",
+        "Preço": "R$ 1.892,64",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 15,48%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "MG",
+        "Praça": "ZONA DA MATA",
+        "Preço": "R$ 1.825,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 16,30%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "PR",
+        "Praça": "NOROESTE DO PARANA",
+        "Preço": "R$ 1.762,80",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 18,35%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ARÁBICA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "SP",
+        "Praça": "MOGIANA",
+        "Preço": "R$ 1.845,00",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 17,53%",
+        "Data_Consulta": "07/02/2026 12:50"
+    },
+    {
+        "Produto": "CAFÉ ROBUSTA TIPO 6 (R$ / SACA 60 KG)",
+        "UF": "ES",
+        "Praça": "ESPIRITO SANTO",
+        "Preço": "R$ 1.069,09",
+        "Data_Preco": "06/02/2026",
+        "Variacao": "- 15,59%",
+        "Data_Consulta": "07/02/2026 12:50"
+    }
+]
