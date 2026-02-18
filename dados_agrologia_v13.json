@@ -1,0 +1,265 @@
+{
+    "meta": {
+        "atualizacao": "18/02 14:25",
+        "dolar": 5.2288
+    },
+    "indices": [
+        {
+            "titulo": "Margem Esmagamento",
+            "valor": "US$ 28.87/t",
+            "status": "NEUTRO",
+            "sinal": "neutral",
+            "desc": "Lucro Indústria (Farelo+Óleo vs Grão)"
+        },
+        {
+            "titulo": "Protein Ratio (Boi/Milho)",
+            "valor": "25.7x",
+            "status": "FAVORÁVEL",
+            "sinal": "pos",
+            "desc": "Poder de compra da Carne sobre Milho"
+        },
+        {
+            "titulo": "Agrologia Market Index",
+            "valor": "10.67 pts",
+            "status": "VALORIZADO",
+            "sinal": "pos",
+            "desc": "Indicador Proprietário (Nobres vs Commodities)"
+        }
+    ],
+    "produtos": [
+        {
+            "nome": "Soja Grão",
+            "tipo": "Grão",
+            "stats": {
+                "status": "ESTÁVEL",
+                "sinal": "neutral"
+            },
+            "var_mes": 3.1445435803878845,
+            "ultimo": {
+                "preco": 442.9236474500634,
+                "vol_fmt": "3,383,2k",
+                "fat_brl": "R$ 7,835.2 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    519.8,
+                    429.42,
+                    442.92
+                ]
+            }
+        },
+        {
+            "nome": "Milho",
+            "tipo": "Grão",
+            "stats": {
+                "status": "ESTÁVEL",
+                "sinal": "neutral"
+            },
+            "var_mes": 1.1714341905330883,
+            "ultimo": {
+                "preco": 213.21613537093847,
+                "vol_fmt": "6,124,2k",
+                "fat_brl": "R$ 6,827.6 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    223.74,
+                    210.75,
+                    213.22
+                ]
+            }
+        },
+        {
+            "nome": "Farelo de Soja",
+            "tipo": "Derivado",
+            "stats": {
+                "status": "BAIXA FORTE",
+                "sinal": "low"
+            },
+            "var_mes": -9.982901534798925,
+            "ultimo": {
+                "preco": 336.0907864819855,
+                "vol_fmt": "1,596,8k",
+                "fat_brl": "R$ 2,806.1 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    496.2,
+                    373.36,
+                    336.09
+                ]
+            }
+        },
+        {
+            "nome": "Óleo de Soja",
+            "tipo": "Derivado",
+            "stats": {
+                "status": "ALTA",
+                "sinal": "high"
+            },
+            "var_mes": 11.436800046959934,
+            "ultimo": {
+                "preco": 1103.3894725183045,
+                "vol_fmt": "45,3k",
+                "fat_brl": "R$ 261.4 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    997.72,
+                    990.15,
+                    1103.39
+                ]
+            }
+        },
+        {
+            "nome": "Carne Bovina",
+            "tipo": "Proteína",
+            "stats": {
+                "status": "ALTA",
+                "sinal": "high"
+            },
+            "var_mes": 12.867546236355551,
+            "ultimo": {
+                "preco": 5477.646096768859,
+                "vol_fmt": "261,7k",
+                "fat_brl": "R$ 7,496.2 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    4470.53,
+                    4853.16,
+                    5477.65
+                ]
+            }
+        },
+        {
+            "nome": "Algodão",
+            "tipo": "Fibra",
+            "stats": {
+                "status": "BAIXA",
+                "sinal": "low"
+            },
+            "var_mes": -10.957846392266925,
+            "ultimo": {
+                "preco": 1563.3303092245271,
+                "vol_fmt": "452,5k",
+                "fat_brl": "R$ 3,698.8 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    1945.51,
+                    1755.72,
+                    1563.33
+                ]
+            }
+        },
+        {
+            "nome": "Café Arábica",
+            "tipo": "Nobre",
+            "stats": {
+                "status": "ALTA FORTE",
+                "sinal": "high"
+            },
+            "var_mes": 46.968239098949645,
+            "ultimo": {
+                "preco": 7310.907772751499,
+                "vol_fmt": "210,3k",
+                "fat_brl": "R$ 8,039.3 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    3184.7,
+                    4974.48,
+                    7310.91
+                ]
+            }
+        },
+        {
+            "nome": "Açúcar VHP",
+            "tipo": "Soft",
+            "stats": {
+                "status": "BAIXA FORTE",
+                "sinal": "low"
+            },
+            "var_mes": -21.782701443617317,
+            "ultimo": {
+                "preco": 367.07600120234537,
+                "vol_fmt": "2,468,8k",
+                "fat_brl": "R$ 4,738.5 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    530.39,
+                    469.3,
+                    367.08
+                ]
+            }
+        },
+        {
+            "nome": "Celulose",
+            "tipo": "Florestal",
+            "stats": {
+                "status": "ESTÁVEL",
+                "sinal": "neutral"
+            },
+            "var_mes": -14.697163038267593,
+            "ultimo": {
+                "preco": 451.3510684173244,
+                "vol_fmt": "1,662,2k",
+                "fat_brl": "R$ 3,922.9 M"
+            },
+            "grafico": {
+                "labels": [
+                    "12/2023",
+                    "12/2024",
+                    "12/2025"
+                ],
+                "data": [
+                    381.29,
+                    529.12,
+                    451.35
+                ]
+            }
+        }
+    ]
+}
