@@ -1,7 +1,7 @@
 {
     "meta": {
-        "atualizacao": "01/06 15:33",
-        "dolar": 5.0303
+        "atualizacao": "02/06 14:15",
+        "dolar": 5.016
     },
     "indices": [
         {
@@ -38,7 +38,7 @@
             "ultimo": {
                 "preco": 416.16298420664816,
                 "vol_fmt": "16,746,7k",
-                "fat_brl": "R$ 35,057.9 M"
+                "fat_brl": "R$ 34,958.2 M"
             },
             "grafico": {
                 "labels": [
@@ -64,7 +64,7 @@
             "ultimo": {
                 "preco": 234.33023693223106,
                 "vol_fmt": "470,3k",
-                "fat_brl": "R$ 554.4 M"
+                "fat_brl": "R$ 552.8 M"
             },
             "grafico": {
                 "labels": [
@@ -90,7 +90,7 @@
             "ultimo": {
                 "preco": 347.6855147382949,
                 "vol_fmt": "1,879,8k",
-                "fat_brl": "R$ 3,287.8 M"
+                "fat_brl": "R$ 3,278.4 M"
             },
             "grafico": {
                 "labels": [
@@ -116,7 +116,7 @@
             "ultimo": {
                 "preco": 1180.0051784766795,
                 "vol_fmt": "198,9k",
-                "fat_brl": "R$ 1,180.8 M"
+                "fat_brl": "R$ 1,177.5 M"
             },
             "grafico": {
                 "labels": [
@@ -142,7 +142,7 @@
             "ultimo": {
                 "preco": 6158.875585281376,
                 "vol_fmt": "223,6k",
-                "fat_brl": "R$ 6,926.8 M"
+                "fat_brl": "R$ 6,907.1 M"
             },
             "grafico": {
                 "labels": [
@@ -168,7 +168,7 @@
             "ultimo": {
                 "preco": 1513.2192758291233,
                 "vol_fmt": "370,4k",
-                "fat_brl": "R$ 2,819.8 M"
+                "fat_brl": "R$ 2,811.8 M"
             },
             "grafico": {
                 "labels": [
@@ -194,7 +194,7 @@
             "ultimo": {
                 "preco": 6254.984579631204,
                 "vol_fmt": "171,4k",
-                "fat_brl": "R$ 5,392.8 M"
+                "fat_brl": "R$ 5,377.4 M"
             },
             "grafico": {
                 "labels": [
@@ -220,7 +220,7 @@
             "ultimo": {
                 "preco": 359.856277228633,
                 "vol_fmt": "958,1k",
-                "fat_brl": "R$ 1,734.4 M"
+                "fat_brl": "R$ 1,729.4 M"
             },
             "grafico": {
                 "labels": [
@@ -246,7 +246,7 @@
             "ultimo": {
                 "preco": 469.19701153778936,
                 "vol_fmt": "1,441,3k",
-                "fat_brl": "R$ 3,401.7 M"
+                "fat_brl": "R$ 3,392.0 M"
             },
             "grafico": {
                 "labels": [
