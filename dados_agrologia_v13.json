@@ -1,26 +1,26 @@
 {
     "meta": {
-        "atualizacao": "04/09 13:41",
+        "atualizacao": "05/09 12:44",
         "dolar": 5.1253
     },
     "indices": [
         {
             "titulo": "Margem Esmagamento",
-            "valor": "US$ 65.18/t",
+            "valor": "US$ 65.86/t",
             "status": "ALTA",
             "sinal": "pos",
             "desc": "Lucro Indústria (Farelo+Óleo vs Grão)"
         },
         {
             "titulo": "Protein Ratio (Boi/Milho)",
-            "valor": "29.1x",
+            "valor": "29.7x",
             "status": "FAVORÁVEL",
             "sinal": "pos",
             "desc": "Poder de compra da Carne sobre Milho"
         },
         {
             "titulo": "Agrologia Market Index",
-            "valor": "9.69 pts",
+            "valor": "9.72 pts",
             "status": "VALORIZADO",
             "sinal": "pos",
             "desc": "Indicador Proprietário (Nobres vs Commodities)"
@@ -34,11 +34,11 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": 7.413258662928824,
+            "var_mes": 7.29341306145837,
             "ultimo": {
-                "preco": 438.3223325077109,
-                "vol_fmt": "13,400,9k",
-                "fat_brl": "R$ 30,105.6 M"
+                "preco": 437.8332773926234,
+                "vol_fmt": "13,405,9k",
+                "fat_brl": "R$ 30,083.2 M"
             },
             "grafico": {
                 "labels": [
@@ -49,7 +49,7 @@
                 "data": [
                     441.13,
                     408.07,
-                    438.32
+                    437.83
                 ]
             }
         },
@@ -60,11 +60,11 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": 5.554084971687426,
+            "var_mes": 3.343473041243238,
             "ultimo": {
-                "preco": 213.89797193821602,
+                "preco": 209.41832144632585,
                 "vol_fmt": "1,941,2k",
-                "fat_brl": "R$ 2,128.1 M"
+                "fat_brl": "R$ 2,083.6 M"
             },
             "grafico": {
                 "labels": [
@@ -75,7 +75,7 @@
                 "data": [
                     195.76,
                     202.64,
-                    213.9
+                    209.42
                 ]
             }
         },
@@ -86,11 +86,11 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": 8.364502721334413,
+            "var_mes": 8.440489618541104,
             "ultimo": {
-                "preco": 353.6965429612083,
-                "vol_fmt": "1,853,5k",
-                "fat_brl": "R$ 3,359.9 M"
+                "preco": 353.9445605516315,
+                "vol_fmt": "1,830,6k",
+                "fat_brl": "R$ 3,320.8 M"
             },
             "grafico": {
                 "labels": [
@@ -101,7 +101,7 @@
                 "data": [
                     411.45,
                     326.4,
-                    353.7
+                    353.94
                 ]
             }
         },
@@ -138,9 +138,9 @@
                 "status": "ALTA FORTE",
                 "sinal": "high"
             },
-            "var_mes": 13.92915265749321,
+            "var_mes": 13.928942989441643,
             "ultimo": {
-                "preco": 6222.946189613783,
+                "preco": 6222.934737294757,
                 "vol_fmt": "193,1k",
                 "fat_brl": "R$ 6,157.6 M"
             },
@@ -153,7 +153,7 @@
                 "data": [
                     4333.9,
                     5462.12,
-                    6222.95
+                    6222.93
                 ]
             }
         },
@@ -164,9 +164,9 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": 4.45784446640052,
+            "var_mes": 4.457998529463709,
             "ultimo": {
-                "preco": 1693.2391250484525,
+                "preco": 1693.2416223774721,
                 "vol_fmt": "155,0k",
                 "fat_brl": "R$ 1,344.8 M"
             },
@@ -190,11 +190,11 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": -17.844132076028536,
+            "var_mes": -17.84745228076379,
             "ultimo": {
-                "preco": 5322.4462058024255,
+                "preco": 5322.23110721553,
                 "vol_fmt": "152,9k",
-                "fat_brl": "R$ 4,171.9 M"
+                "fat_brl": "R$ 4,171.8 M"
             },
             "grafico": {
                 "labels": [
@@ -205,7 +205,7 @@
                 "data": [
                     4113.77,
                     6478.47,
-                    5322.45
+                    5322.23
                 ]
             }
         },
@@ -216,11 +216,11 @@
                 "status": "BAIXA FORTE",
                 "sinal": "low"
             },
-            "var_mes": -16.68125204980816,
+            "var_mes": -17.207884776633783,
             "ultimo": {
-                "preco": 335.75102981592033,
+                "preco": 333.6288486176122,
                 "vol_fmt": "2,529,9k",
-                "fat_brl": "R$ 4,353.6 M"
+                "fat_brl": "R$ 4,326.0 M"
             },
             "grafico": {
                 "labels": [
@@ -231,7 +231,7 @@
                 "data": [
                     449.69,
                     402.97,
-                    335.75
+                    333.63
                 ]
             }
         },
@@ -242,11 +242,11 @@
                 "status": "ESTÁVEL",
                 "sinal": "neutral"
             },
-            "var_mes": 26.670866137413256,
+            "var_mes": 26.88097348033479,
             "ultimo": {
-                "preco": 520.5969666925542,
-                "vol_fmt": "1,750,7k",
-                "fat_brl": "R$ 4,671.4 M"
+                "preco": 521.4604742120033,
+                "vol_fmt": "1,733,9k",
+                "fat_brl": "R$ 4,634.1 M"
             },
             "grafico": {
                 "labels": [
@@ -257,7 +257,7 @@
                 "data": [
                     599.32,
                     410.98,
-                    520.6
+                    521.46
                 ]
             }
         }
